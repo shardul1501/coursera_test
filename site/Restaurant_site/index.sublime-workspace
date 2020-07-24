@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"re",
+				"render"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2256,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/Desktop/fullstack-course4/examples/Lecture29/after/index.html",
+		"/C/Users/DELL/Desktop/git_exercise/coursera_test/site/Project1/index.html",
+		"/C/Users/DELL/Desktop/Coursera/bootstrap-4.4.1-dist/js/script.js",
+		"/C/Users/DELL/Desktop/Coursera/bootstrap-4.4.1-dist/css/styles.css",
+		"/C/Users/DELL/Desktop/git_exercise/coursera_test/site/Resturant_site/css/styles.css",
+		"/C/Users/DELL/Desktop/git_exercise/coursera_test/site/index.html",
+		"/C/Users/DELL/Desktop/git_exercise/coursera_test/MOD2_solution/index.html",
+		"/C/Users/DELL/Desktop/git_exercise/coursera_test/MOD2_solution/css/styling.css",
+		"/C/Users/DELL/Desktop/MOD2_solution/css/styling.css",
+		"/C/Users/DELL/Desktop/MOD2_solution/index.html",
+		"/C/Users/DELL/Desktop/coursera_test/site/Project1/index.html",
+		"/C/Users/DELL/Desktop/git_exercise/fullstack-course4/examples/Lecture21/two-column-after.html",
+		"/C/Users/DELL/Desktop/git_exercise/fullstack-course4/examples/Lecture22/positioning-after.html",
+		"/C/Users/DELL/Desktop/git_exercise/fullstack-course4/examples/Lecture19/box-model-after.html",
+		"/C/Users/DELL/Desktop/git_exercise/fullstack-course4/examples/Lecture19/box-model-before.html",
+		"/C/Users/DELL/Desktop/git_exercise/fullstack-course4/examples/Lecture21/floating-before.html",
+		"/C/Users/DELL/Desktop/git_exercise/fullstack-course4/examples/Lecture21/floating-after.html",
+		"/C/Users/DELL/Desktop/MOD2_solution/index.html.html",
+		"/C/Users/DELL/Desktop/coursera_test/site/Project1/bootstrap-4.4.1-dist/css/styles.css",
+		"/C/Users/DELL/Desktop/Page1.html",
+		"/C/djangoproject1/project/main.py",
+		"/C/djangoproject1/helloapp/hello/urls.py",
+		"/C/djangoproject1/helloapp/helloapp/urls.py",
+		"/C/djangoproject1/helloapp/hello/templates/home.html",
+		"/C/djangoproject1/helloapp/hello/views.py",
+		"/C/djangoproject1/helloapp/helloapp/settings.py",
+		"/C/Users/DELL/Downloads/faqbot-hvivih-8beeba8b735c.json"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 424.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
